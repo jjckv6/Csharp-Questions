@@ -79,31 +79,31 @@
 26. Constructors are used to create classes or structs and allows the coder to set values and limit instanctiation.
 
 ## When can var be used to declare a variable and how is the type for the variable determined?
-27.
+27. Var is implicitly declared and  the compiler determines the type at run time. 
 
 ## What is an abstract class?
-28.
+28. Abstract are used to place abstract methods that can be used by other classes.
 
 ## What is an interface?
-29.
+29. Interfaces are used for classes to so they can have multiple sources for one class.
 
 ## What is a method?
-30.
+30. Methods are used to preform certain taskes in the program, like FindMax().
 
 ## What is a property?
-31.
+31. Are much like methods but can read, write, or compute the value of a private field.
 
 ## What is an access specifier?
-32.
+32. It tells the program is a method/class is public or private.
 
 ## What access specifiers are supported and what do they mean?
-33.
-
+33. Private and public, they either allow a class/method be used only in one program (private) or in other programs
+ (Public).
 ## What is a collection?
-34.
+34. Allows the coder to store objects of a related type.
 
 ## What is a Hash Table?
-35.
+35. A collection of values that have keys with a hash code that points to the values.
 
 ### Links to resources used
 1. [Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/)
